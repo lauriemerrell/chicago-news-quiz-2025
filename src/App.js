@@ -97,17 +97,28 @@ function App() {
     // results display
     const FinalDisplay = () => {
 
+      const finalScore = Math.round(correctQuestionsCount / completedQuestionsCount * 100)
+
       const copyResults = () => {
-        const resultsText = 'I scored ' + Math.round(correctQuestionsCount / completedQuestionsCount * 100) + '% on the Chicago local news quiz 2025! Take the quiz at: https://lauriemerrell.com/chicago-news-quiz/'
+        const resultsText = 'I scored ' + finalScore + '% on the Chicago local news quiz 2025! Take the quiz at: https://lauriemerrell.com/chicago-news-quiz/'
         navigator.clipboard.writeText(resultsText)
       }
 
       return(      
       <div>
-        <h2 style={{'paddingTop': '5%', 'paddingBottom': '1%'}}>Your results:</h2>
-        <strong>You got {correctQuestionsCount} questions correct for a score of {Math.round(correctQuestionsCount / completedQuestionsCount * 100)}% on the Chicago local news quiz 2025!</strong> <br/>
+        <h2 style={{'paddingTop': '5%', 'paddingBottom': '1%'}}>Results:</h2>
+        <strong> {correctQuestionsCount} questions correct for a score of {finalScore}% on the Chicago local news quiz 2025!</strong> <br/>
+        <div>
+          <img 
+            src={require('./images/results/results-' + finalScore + 'percent.jpg')}
+            alt={'Results graphic'}
+            height="200" width="auto">
+          </img>
+          <br/>
+          <br/>
+        </div>
         {/* https://stackoverflow.com/questions/39501289/in-reactjs-how-to-copy-text-to-clipboard */}
-        <div style={{'paddingTop': '1%'}}><Button onClick={copyResults}>Copy your results to share!</Button></div>
+        <div style={{'paddingTop': '1%'}}><Button onClick={copyResults}>Copy your results to share (text only)!</Button></div>
         {/* https://upmostly.com/tutorials/how-to-refresh-a-page-or-component-in-react  */}
         {/* really this should pass a showStart state back up but I am not going to figure that out right now */}
         <div style={{'paddingTop': '1%'}}><Button onClick={() => window.location.reload(false)}>Start over</Button></div>
@@ -126,10 +137,12 @@ function App() {
               <div>
                 {'image_id' in entry &&
                   <div>
+                    <br/>
+                    <br/>
                     <img 
                       src={require('./images/' + entry['image_id'] + '.jpg')}
                       alt={entry['alt']}
-                      height="150" width="auto">
+                      height="200" width="auto">
                     </img>
                     <br/>
                     <br/>
