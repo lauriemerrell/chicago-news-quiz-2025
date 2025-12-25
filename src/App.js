@@ -16,13 +16,13 @@ function App() {
         transform: 'translate(-50%, -50%)', 
         'overflow-y': 'scroll'
     }}>
-      <div><h1>How closely did you follow Chicago local news in 2024?</h1></div>
+      <div><h1>How closely did you follow Chicago local news in 2025?</h1></div>
       <div><p>Test your knowledge with this 20 question quiz!</p></div>
       <div><StartButton/></div>
       <div style={{'paddingTop': '10%'}}>
         <p>Created by Laurie Merrell</p>
-        <p>Accurate as of December 29, 2024</p>
-        <p><a href="https://bsky.app/profile/laurie-merrell.bsky.social">Follow me on Bluesky</a> / <a href="https://github.com/lauriemerrell/chicago-news-quiz-2024">See the code on GitHub</a></p>
+        <p>Accurate as of December 24, 2025</p>
+        <p><a href="https://bsky.app/profile/laurie-merrell.bsky.social">Follow me on Bluesky</a> / <a href="https://github.com/lauriemerrell/chicago-news-quiz">See the code on GitHub</a></p>
       </div>
       </div>
     )
@@ -98,14 +98,14 @@ function App() {
     const FinalDisplay = () => {
 
       const copyResults = () => {
-        const resultsText = 'I scored ' + Math.round(correctQuestionsCount / completedQuestionsCount * 100) + '% on the Chicago local news quiz 2024! Take the quiz at: https://lauriemerrell.github.io/chicago-news-quiz-2024/'
+        const resultsText = 'I scored ' + Math.round(correctQuestionsCount / completedQuestionsCount * 100) + '% on the Chicago local news quiz 2025! Take the quiz at: https://lauriemerrell.com/chicago-news-quiz/'
         navigator.clipboard.writeText(resultsText)
       }
 
       return(      
       <div>
         <h2 style={{'paddingTop': '5%', 'paddingBottom': '1%'}}>Your results:</h2>
-        <strong>You got {correctQuestionsCount} questions correct for a score of {Math.round(correctQuestionsCount / completedQuestionsCount * 100)}% on the Chicago local news quiz 2024!</strong> <br/>
+        <strong>You got {correctQuestionsCount} questions correct for a score of {Math.round(correctQuestionsCount / completedQuestionsCount * 100)}% on the Chicago local news quiz 2025!</strong> <br/>
         {/* https://stackoverflow.com/questions/39501289/in-reactjs-how-to-copy-text-to-clipboard */}
         <div style={{'paddingTop': '1%'}}><Button onClick={copyResults}>Copy your results to share!</Button></div>
         {/* https://upmostly.com/tutorials/how-to-refresh-a-page-or-component-in-react  */}
@@ -165,7 +165,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p> Chicago Local News Quiz 2024 </p>
+        <p> Chicago Local News Quiz 2025 </p>
       </header>
 
       {showStart && <StartPage/>}

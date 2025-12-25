@@ -9,8 +9,16 @@ The answers are in `quiz_data.json`. I didn't bother trying to make the key secr
 <details>
 <summary>Image sources are (collapsed in case anyone cares about spoilers)</summary>
 
+2024:
 * Image 1: https://www.cps.edu/about/leadership/executive-leadership/
 * Image 2: https://en.wikipedia.org/wiki/Chicago_rat_hole
+
+2025:
+* 2025_1: https://www.wbez.org/real-estate-development/2025/05/09/pope-leo-xivs-childhood-home-no-longer-for-sale-could-it-become-a-historic-site
+* 2025_2: https://blockclubchicago.org/2025/01/13/cta-boss-dorval-carter-retires-after-years-of-mounting-pressure-over-struggling-transit-service/
+
+
+General:
 * Chicago flag favicon: https://en.wikipedia.org/wiki/Flag_of_Chicago
 </details>
 

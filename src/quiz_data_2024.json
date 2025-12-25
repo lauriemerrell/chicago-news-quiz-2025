@@ -1,0 +1,167 @@
+[
+    {
+        "questionId": "1",
+        "type": "MCQ",
+        "question": "Where was Riot Fest held in 2024?",
+        "answers": ["Bridgeview", "Douglass Park", "Northerly Island", "Union Park"],
+        "correctAnswer": ["Douglass Park"],
+        "source": "https://blockclubchicago.org/2024/09/20/as-riot-fest-kicks-off-west-siders-debate-its-place-in-douglass-park/"
+    },
+    {
+        "questionId": "2",
+        "type": "MCQ",
+        "image_id": "1",
+        "alt": "A photo of a light-skinned man with dark hair",
+        "question": "What is this person's current role?",
+        "answers": ["Mayor of Chicago", "CEO of Chicago Public Schools", "Chicago Transit Authority President", "Alderman"],
+        "correctAnswer": ["CEO of Chicago Public Schools"],
+        "source": "https://www.chalkbeat.org/chicago/2024/12/21/board-of-education-fires-pedro-martinez/"
+    },
+    {
+        "questionId": "3",
+        "type": "MCQ",
+        "question": "What was the common name of the proposal to increase the real estate transfer tax on properties valued over $1 million in order to fund homelessness services?",
+        "answers": ["One System Initiative", "PeaceBook", "Bring Chicago Home", "House Chicago"],
+        "correctAnswer": ["Bring Chicago Home"],
+        "source": "https://www.bringchicagohome.org/"
+    },
+    {
+        "questionId": "4",
+        "type": "MCQ",
+        "question": "As of December 29, 2024, how many migrants have arrived in Chicago via Texas since August 31, 2022 (rounded to the nearest 1,000)?",
+        "answers": ["27,000", "41,000", "52,000", "68,000"],
+        "correctAnswer": ["52,000"],
+        "source": "https://www.chicago.gov/city/en/sites/texas-new-arrivals/home/Dashboard.html"
+    },
+    {
+        "questionId": "5",
+        "type": "MCQ",
+        "question": "How many aldermen voted against a proposed $300 million property tax increase on November 14?",
+        "answers": ["0", "26", "43", "50"],
+        "correctAnswer": ["50"],
+        "source": "https://news.wttw.com/2024/11/14/city-council-votes-unanimously-reject-mayor-s-300m-property-tax-hike-proposal"
+    },
+    {
+        "questionId": "6",
+        "type": "MCQ",
+        "question": "Which Chicago alderman camped out this summer to draw attention to public safety issues in their ward?",
+        "answers": ["Jane Byrne", "David Moore", "Anthony Beale", "William Hall"],
+        "correctAnswer": ["David Moore"],
+        "source": "https://blockclubchicago.org/2024/07/30/aldermans-englewood-campout-gave-violent-block-brief-relief-neighbors-say-they-need-help-to-make-peace-last/"
+    },
+    {
+        "questionId": "7",
+        "type": "MCQ",
+        "question": "What record was set this year by the Chicago White Sox?",
+        "answers": ["Most losses in a single MLB season", "Lowest winning percentage of any professional sports team in history", "Lowest payroll", "Lowest attendance"],
+        "correctAnswer": ["Most losses in a single MLB season"],
+        "source": "https://chicago.suntimes.com/white-sox/2024/09/27/121-white-sox-fall-to-playoff-bound-tigers-set-all-time-record-for-losses-in-season"
+    },
+    {
+        "questionId": "8",
+        "type": "MCQ",
+        "question": "What type of development is proposed for the former US Steel South Works site, with the backing of the governor and the mayor?",
+        "answers": ["Bears stadium", "Public housing", "Quantum computing campus", "Foxconn factory"],
+        "correctAnswer": ["Quantum computing campus"],
+        "source": "https://chicago.suntimes.com/other-views/2024/10/09/pritzker-positions-city-illinois-lead-charge-quantum-computing-anthony-lazzara"
+    },
+    {
+        "questionId": "9",
+        "type": "MCQ",
+        "question": "As of December 29, 2024, what is the current composition of the sitting Chicago Public Schools Board?",
+        "answers": ["100% appointed by the mayor", "50% appointed by the mayor, 50% elected", "100% elected"],
+        "correctAnswer": ["100% appointed by the mayor"],
+        "source": "https://www.cps.edu/about/chicago-board-of-education/"
+    },
+    {
+        "questionId": "10",
+        "type": "MCQ",
+        "image_id": "2",
+        "alt": "A photo of a sidewalk with an indent shaped like a rat",
+        "question": "What was the common name of this local landmark?",
+        "answers": ["Rata-Touhy", "Chicago Rat Hole", "Michael Rat-igan", "Rat Czar"],
+        "correctAnswer": ["Chicago Rat Hole"],
+        "source": "https://blockclubchicago.org/2024/04/24/chicago-rat-hole-removed-by-city/"
+    },
+    {
+        "questionId": "11",
+        "type": "MCQ",
+        "question": "Which former Chicago alderman wore a wire in the corruption case against former House Speaker Michael Madigan?",
+        "answers": ["Mike McClain", "Patrick Daley Thompson", "Proco 'Joe' Moreno", "Danny Solis"],
+        "correctAnswer": ["Danny Solis"],
+        "source": "https://www.wbez.org/politics/2024/12/03/madigan-defense-cross-examination-danny-solis-patty-doyle-vap-tax-fraud-prostitutes"
+    },
+    {
+        "questionId": "12",
+        "type": "MCQ",
+        "question": "Who was selected this year to become the new Music Director of the Chicago Symphony Orchestra starting in 2027?",
+        "answers": ["Klaus Mäkelä", "Riccardo Muti", "Enrique Mazzola", "Kirill Petrenko"],
+        "correctAnswer": ["Klaus Mäkelä"],
+        "source": "https://cso.org/experience/article/18131/klaus-makela-named-next-music-director-of-the"
+    },
+    {
+        "questionId": "13",
+        "type": "MCQ",
+        "question": "Which Chicago Sky rookie finished second in the WNBA Rookie of the Year voting for 2024?",
+        "answers": ["Caitlin Clark", "Kamilla Cardoso", "Angel Reese", "Chennedy Carter"],
+        "correctAnswer": ["Angel Reese"],
+        "source": "https://www.fox32chicago.com/sports/chicago-sky-angel-reese-finishes-second-rookie-year-race-earns-all-rookie-honors-cardoso"
+    },
+    {
+        "questionId": "14",
+        "type": "MCQ",
+        "question": "True or false: The Chicago Bears currently own the former Arlington Heights Racecourse facility?",
+        "answers": ["True", "False"],
+        "correctAnswer": ["True"],
+        "source": "https://www.chicagotribune.com/2024/11/25/chicago-bears-taxes-arlington-heights/"
+    },
+    {
+        "questionId": "15",
+        "type": "MCQ",
+        "question": "What was the size of Chicago's 2025 budget deficit going into budget negotiations this fall, to the nearest million dollars?",
+        "answers": ["$215 million", "$800 million", "$982 million", "$1,500 million ($1.5 billion)"],
+        "correctAnswer": ["$982 million"],
+        "source": "https://news.wttw.com/2024/08/29/chicago-faces-982m-budget-shortfall-2025-223m-gap-2024-johnson"
+    },
+    {
+        "questionId": "16",
+        "type": "MCQ",
+        "question": "Chicago Police Department officers killed Dexter Reed during a traffic stop in March. How may times did officers fire their weapons during the 41 second incident?",
+        "answers": ["16 times", "74 times", "83 times", "96 times"],
+        "correctAnswer": ["96 times"],
+        "source": "https://chicago.suntimes.com/police-reform/dexter-reed-shooting/2024/04/25/dexter-reed-shot-13-times-deadly-gunfight-police-autopsy"
+    },
+    {
+        "questionId": "17",
+        "type": "MCQ",
+        "question": "What is the new name of the company behind the controversial ShotSpotter technology?",
+        "answers": ["ListenIn", "SSI", "SoundThinking", "FirstNet"],
+        "correctAnswer": ["SoundThinking"],
+        "source": "https://southsideweekly.com/shotspotter-soundthinking-contract-chicago-garien-gatewood-public-safety-gun-violence/"
+    },
+    {
+        "questionId": "18",
+        "type": "MCQ",
+        "question": "What programming did WBEZ cut this year due to budget issues?",
+        "answers": ["Vocalo radio broadcast", "This American Life", "Reset", "Wait Wait... Don't Tell Me!"],
+        "correctAnswer": ["Vocalo radio broadcast"],
+        "source": "https://chicago.suntimes.com/news/2024/04/03/wbez-cpm-chicago-public-media-vocalo-matt-moog-vocalo"
+    },
+    {
+        "questionId": "19",
+        "type": "MCQ",
+        "question": "The CTA opened a new 'Damen' stop on which train line this year?",
+        "answers": ["Pink Line", "Green Line", "Blue Line", "Orange Line"],
+        "correctAnswer": ["Green Line"],
+        "source": "https://blockclubchicago.org/2024/08/05/ctas-new-damen-green-line-stop-opens-after-years-of-delays/"
+    },
+    {
+        "questionId": "20",
+        "type": "MCQ",
+        "question": "Which street in the Loop has been proposed for significant new residential development?",
+        "answers": ["Madison", "Dearborn", "State", "LaSalle"],
+        "correctAnswer": ["LaSalle"],
+        "source": "https://chicago.suntimes.com/real-estate/2024/06/22/lasalle-street-apartments-office-adaptive-reuse-tif-johnson"
+
+    }
+]
