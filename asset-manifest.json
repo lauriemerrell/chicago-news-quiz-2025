@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chicago-news-quiz/static/css/main.0297c5b0.css",
-    "main.js": "/chicago-news-quiz/static/js/main.894cb543.js",
+    "main.js": "/chicago-news-quiz/static/js/main.3e5bc120.js",
     "static/js/63.56893f4d.chunk.js": "/chicago-news-quiz/static/js/63.56893f4d.chunk.js",
     "static/media/2025_1.jpg": "/chicago-news-quiz/static/media/2025_1.5ee6570d0a3b358b0bef.jpg",
     "static/media/2.jpg": "/chicago-news-quiz/static/media/2.646aff61c83a8355d11d.jpg",
@@ -30,11 +30,11 @@
     "static/media/2025_2.jpg": "/chicago-news-quiz/static/media/2025_2.242addc656012cbce223.jpg",
     "index.html": "/chicago-news-quiz/index.html",
     "main.0297c5b0.css.map": "/chicago-news-quiz/static/css/main.0297c5b0.css.map",
-    "main.894cb543.js.map": "/chicago-news-quiz/static/js/main.894cb543.js.map",
+    "main.3e5bc120.js.map": "/chicago-news-quiz/static/js/main.3e5bc120.js.map",
     "63.56893f4d.chunk.js.map": "/chicago-news-quiz/static/js/63.56893f4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0297c5b0.css",
-    "static/js/main.894cb543.js"
+    "static/js/main.3e5bc120.js"
   ]
 }
