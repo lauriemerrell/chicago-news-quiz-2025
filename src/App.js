@@ -24,7 +24,7 @@ function App() {
         <p>Accurate as of December 24, 2025</p>
         <p><a href="https://bsky.app/profile/laurie-merrell.bsky.social">Follow me on Bluesky</a> 
         <br/> 
-        <a href="https://github.com/lauriemerrell/chicago-news-quiz-2025">See the code on GitHub</a>
+        <a href="https://github.com/lauriemerrell/chicago-news-quiz-2025">See the code on GitHub</a></p>
       </div>
       </div>
     )
