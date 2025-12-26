@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/chicago-news-quiz/static/css/main.0297c5b0.css",
-    "main.js": "/chicago-news-quiz/static/js/main.3e5bc120.js",
+    "main.js": "/chicago-news-quiz/static/js/main.036f3570.js",
     "static/js/63.56893f4d.chunk.js": "/chicago-news-quiz/static/js/63.56893f4d.chunk.js",
-    "static/media/2025_1.jpg": "/chicago-news-quiz/static/media/2025_1.5ee6570d0a3b358b0bef.jpg",
     "static/media/2.jpg": "/chicago-news-quiz/static/media/2.646aff61c83a8355d11d.jpg",
     "static/media/results-90percent.jpg": "/chicago-news-quiz/static/media/results-90percent.6b74714b19f3a863b48e.jpg",
     "static/media/results-60percent.jpg": "/chicago-news-quiz/static/media/results-60percent.c01d3c7fc188d5e968f8.jpg",
@@ -26,15 +25,16 @@
     "static/media/results-100percent.jpg": "/chicago-news-quiz/static/media/results-100percent.68d185d7ce9655f70d4f.jpg",
     "static/media/results-0percent.jpg": "/chicago-news-quiz/static/media/results-0percent.701de43c7948ec4790a1.jpg",
     "static/media/results-5percent.jpg": "/chicago-news-quiz/static/media/results-5percent.34eead50bdae9468f56b.jpg",
+    "static/media/2025_1.jpg": "/chicago-news-quiz/static/media/2025_1.9bd01b3b8452693f4cb2.jpg",
     "static/media/1.jpg": "/chicago-news-quiz/static/media/1.0352a6aa2439d58b6ace.jpg",
     "static/media/2025_2.jpg": "/chicago-news-quiz/static/media/2025_2.242addc656012cbce223.jpg",
     "index.html": "/chicago-news-quiz/index.html",
     "main.0297c5b0.css.map": "/chicago-news-quiz/static/css/main.0297c5b0.css.map",
-    "main.3e5bc120.js.map": "/chicago-news-quiz/static/js/main.3e5bc120.js.map",
+    "main.036f3570.js.map": "/chicago-news-quiz/static/js/main.036f3570.js.map",
     "63.56893f4d.chunk.js.map": "/chicago-news-quiz/static/js/63.56893f4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0297c5b0.css",
-    "static/js/main.3e5bc120.js"
+    "static/js/main.036f3570.js"
   ]
 }
