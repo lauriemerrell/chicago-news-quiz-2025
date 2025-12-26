@@ -22,7 +22,7 @@ function App() {
       <div style={{'paddingTop': '10%'}}>
         <p>Created by Laurie Merrell</p>
         <p>Accurate as of December 24, 2025</p>
-        <p><a href="https://bsky.app/profile/laurie-merrell.bsky.social">Follow me on Bluesky</a> / <a href="https://github.com/lauriemerrell/chicago-news-quiz">See the code on GitHub</a></p>
+        <p><a href="https://bsky.app/profile/laurie-merrell.bsky.social">Follow me on Bluesky</a> / <a href="https://github.com/lauriemerrell/chicago-news-quiz-2025">See the code on GitHub</a></p>
       </div>
       </div>
     )
@@ -100,7 +100,7 @@ function App() {
       const finalScore = Math.round(correctQuestionsCount / completedQuestionsCount * 100)
 
       const copyResults = () => {
-        const resultsText = 'I scored ' + finalScore + '% on the Chicago local news quiz 2025! Take the quiz at: https://lauriemerrell.com/chicago-news-quiz/'
+        const resultsText = 'I scored ' + finalScore + '% on the Chicago local news quiz 2025! Take the quiz at: https://lauriemerrell.com/chicago-news-quiz-2025/'
         navigator.clipboard.writeText(resultsText)
       }
 
